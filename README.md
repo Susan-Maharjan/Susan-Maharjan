@@ -77,7 +77,7 @@
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -89,11 +89,11 @@
   </a>
   &emsp;
     <a href="https://www.php.net" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/php%20-%2314354C.svg?style=plastic&logo=php&logoColor=white">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?style=plastic&logo=php&logoColor=white">
   </a>
 	&emsp;
 	<a href="https://laravel.com/" target="_blank">
-		<img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%2314354C.svg?style=plastic&logo=laravel&logoColor=white">
+		<img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%2314354C.svg?style=plastic&logo=laravel&logoColor=white">
 	</a>
 </p>
 
