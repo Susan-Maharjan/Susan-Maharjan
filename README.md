@@ -174,9 +174,11 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Kubuntu-FCC624?style=plastic&logo=kubuntu&logoColor=black"></a>
+  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
+    <a href="#"><img src="https://img.shields.io/badge/Mac-%2348B9C7.svg?style=plastic&&logo=mac&logoColor=white" /></a>	  
 </p>
 
 <br/>
