@@ -91,6 +91,10 @@
     <a href="https://www.php.net" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/php%20-%2314354C.svg?style=plastic&logo=php&logoColor=white">
   </a>
+	&emsp;
+	<a href="https://laravel.com/" target="_blank">
+		<img alt="PHP" src="https://img.shields.io/badge/php%20-%2314354C.svg?style=plastic&logo=laravel&logoColor=white">
+	</a>
 </p>
 
 ### 👉 Frontend Development
