@@ -143,6 +143,8 @@
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+	&emsp;
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23000000.svg?style=plastic&logo=sublimetext&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
@@ -178,7 +180,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/IOS/MAC-%2348B9C7.svg?style=plastic&&logo=apple&logoColor=white" /></a>	  
+    <a href="#"><img src="https://img.shields.io/badge/MAC-%2348B9C7.svg?style=plastic&&logo=apple&logoColor=white" /></a>	  
 </p>
 
 <br/>
