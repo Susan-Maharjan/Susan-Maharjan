@@ -14,8 +14,10 @@
 	</a> -->
 </p>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
 
-## :sassy_man:  About me
+*** About me ***
 <!-- - :trophy: `ACPC` Finalist 2021 -->
 <!-- - :computer: I am a competitive programmer mainly at `LeetCode` -->
 - :school: I am a `Junior` at Faculty of Computers & Informatics.
