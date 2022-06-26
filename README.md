@@ -178,7 +178,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Mac-%2348B9C7.svg?style=plastic&&logo=mac&logoColor=white" /></a>	  
+    <a href="#"><img src="https://img.shields.io/badge/MAC-%2348B9C7.svg?style=plastic&&logo=MAC&logoColor=white" /></a>	  
 </p>
 
 <br/>
