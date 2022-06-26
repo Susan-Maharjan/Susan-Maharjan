@@ -84,7 +84,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.djangoproject.org" target="_blank">
+   <a href="https://www.djangoproject.com/" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/Django%20-%2314354C.svg?style=plastic&logo=django&logoColor=white">
   </a>
   &emsp;
@@ -93,14 +93,14 @@
   </a>
 	&emsp;
 	<a href="https://laravel.com/" target="_blank">
-		<img alt="PHP" src="https://img.shields.io/badge/php%20-%2314354C.svg?style=plastic&logo=laravel&logoColor=white">
+		<img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%2314354C.svg?style=plastic&logo=laravel&logoColor=white">
 	</a>
 </p>
 
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.tutorialspoint.com/html/index.htm" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
