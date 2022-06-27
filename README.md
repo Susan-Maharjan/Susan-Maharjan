@@ -197,7 +197,8 @@
   <p align="center">
 <!--     <a href="https://github.com/Susan-Maharjan/github-readme-stats"><img alt="Susan-Maharjan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Susan-Maharjan&show_icons=true&count_private=true&theme=algolia" height="192px"/></a> -->
 	<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Susan-Maharjan&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Susan-Maharjan"/> </p>
-<br/><br/>
+<br/>
+<!-- <br/> -->
   &nbsp;
 <!-- 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Susan-Maharjan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Susan-Maharjan" height="192px"/> -->
 <p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Susan-Maharjan&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Susan-Maharjan" /> </p>
