@@ -213,9 +213,12 @@
 
 <br/>
 
+
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Susan-Maharjan&layout=compact&theme=algolia" alt="Susan-Maharjan" /></a> </p>
+<p align='center'>  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Susan-Maharjan&theme=juicyfresh&no-bg=true" alt="Susan-Maharjan" />  
+</p>
 
 -----
 Credits: [Susan-Maharjan](https://github.com/Susan-Maharjan)
