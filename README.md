@@ -127,9 +127,9 @@
   &emsp;
     <a href="#"><img alt="Geeks For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="MYSQL" img src="https://img.shields.io/badge/mysql-%23000000.svg?style=plastic&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MYSQL" img src="https://img.shields.io/badge/MYSQL-%23000000.svg?style=plastic&logo=mysql&logoColor=white"></a>
 <!-- 	&emsp; 
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
   &emsp;
