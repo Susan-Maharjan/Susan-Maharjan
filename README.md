@@ -208,12 +208,12 @@
   </p>
 
 ----
-
+<!--
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 
 ![Susan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Susan-Maharjan&custom_title=Susan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=f5f5f5&hide_border=true&line=d1a01f&point=c58545)
-
+-->
 
 <br/>
 
